@@ -3,6 +3,8 @@ logo: "/images/20190903_210137062_iOS.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Second description 
   <br><br>
+  <br><br>
+  <br><br>
   <a href="https://www.linkedin.com/in/gauthami-k-617b01192/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
