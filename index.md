@@ -4,12 +4,12 @@
 
 ### Category Name 1 
 
-[Video Games Global Sales](/sample_page)
+[Video Games Global Sales]
 <img src="images/Global_Games_Data.png?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Gaming Industry Genre Sales]
+<img src="images/Sales by different Genre.png?raw=true"/>
 
 ---
 
