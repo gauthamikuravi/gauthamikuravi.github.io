@@ -1,25 +1,24 @@
-## Portfolio
+Project
 
 ---
 
 Analysis of Console based games
 
-[Video Games Global Sales]
+Video Games Global Sales
 <img src="images/Global_Games_Data.png?raw=true"/>
 
 ---
-[Gaming Industry Genre Sales]
+Gaming Industry Genre Sales
 <img src="images/Sales by different Genre.png?raw=true"/>
 
 ---
 
-### Category Name 2
+Text Mining on Best Airline Images
 
+Customer Reviews
+<img src="images/NLP.png?raw=true"/>
 -
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- 
 
 ---
 
