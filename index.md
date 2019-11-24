@@ -13,7 +13,7 @@ Gaming Industry Genre Sales
 
 ---
 
-Text Mining on Best Airline Images
+Text Mining on Best Airline Reviews
 
 Customer Reviews
 <img src="images/NLP.png?raw=true"/>
