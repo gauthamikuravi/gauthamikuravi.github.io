@@ -1,8 +1,6 @@
 title: Gauthami Kuravi # your name (or website title) here
 logo: "/images/20191013_194542065_iOS.jpg?raw=true" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
-  <br>Welcome to my page!<br>
-  <br>I am Data Analytics Student with  more than 3 years of experience as Data Analyst. I have worked in areas of Banking/ Finance, Health care and Real estate <br>
+description: >Welcome to my page! I am Data Analytics Student with  more than 3 years of experience as Data Analyst. # your text below (remove <br> elements if you don't need line breaks)
   <a href="https://www.linkedin.com/in/gauthami-k-617b01192/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-cayman
