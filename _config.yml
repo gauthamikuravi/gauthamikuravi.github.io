@@ -1,9 +1,9 @@
-title: Gauthami Kuravi # your name (or website title) here
+title: **Gauthami Kuravi** # your name (or website title) here
 logo: "/images/20191013_194542065_iOS.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
     Welcome to my Page! I'm a IT professional with more than 3 years of expertise in Analytics and Currently pursuing my Masters.
     This page has some of the cool discoveries of the data.
-  <a href="https://www.linkedin.com/in/gauthami-k-617b01192/">View My LinkedIn Profile</a> **This text will be bold**
+   <a href="https://www.linkedin.com/in/gauthami-k-617b01192/">**View My LinkedIn Profile**</a>
   
 theme: jekyll-theme-cayman
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
