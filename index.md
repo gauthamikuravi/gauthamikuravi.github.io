@@ -2,7 +2,7 @@
 
 ---
 
-###**Analysis of Console based games**##
+###**Dashboard**##
 
 ####**Video Games Global Sales**####
 <img src="images/Global_Games_Data.png?raw=true"/>
