@@ -6,6 +6,7 @@
 
 ####**Video Games Global Sales**####
 <img src="images/Global_Games_Data.png?raw=true"/>
+https://github.com/gauthamikuravi/Dashboards
 
 ---
 ####**Gaming Industry Genre Sales**####
